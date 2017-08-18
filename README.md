@@ -14,3 +14,7 @@ C：颜色换肤功能Skin模块
 D：开机启动设置
 
 E：极简风格设计 by andot
+
+截图：
+
+![image](https://github.com/andotorg/AnNote/blob/master/annote.png)
